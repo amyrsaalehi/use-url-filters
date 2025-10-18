@@ -1,6 +1,6 @@
 {
   "name": "use-url-filters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight React hook for managing URL search parameters in client-side applications",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
